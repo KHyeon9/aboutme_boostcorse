@@ -1,1 +1,2 @@
-# aboutme_boostcorse
+부스트 코스 A-1
+자기소개 만들어보기
