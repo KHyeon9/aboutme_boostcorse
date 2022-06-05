@@ -1,0 +1,61 @@
+body {
+  background-color: burlywood;
+}
+header {
+  height: 10%;
+  width: 100%;
+  float: right;
+  background-color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.nav li {
+  list-style-type: none;
+  float: right;
+  background-color: blanchedalmond;
+  box-shadow: 4px 4px 4px gray;
+  text-align: center;
+  line-height: 30px;
+  width: 120px;
+  height: 30px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+footer {
+  height: 20%;
+  background-color: white;
+  text-align: center;
+  margin-top: 20px;
+}
+.photo {
+  height: 50%;
+  background-color: white;
+  clear: right;
+  padding: 10px
+}
+
+.photo > section {
+  float: right;
+  margin-right: 45%;
+  margin-top: 15px;
+}
+
+.photo section p {
+  font-size: 20px;
+}
+
+img {
+  height: 300px;
+  width: 400px;
+  margin: 30px;
+  border: 5px solid black;
+}
+
+hr {
+  width: 95%;
+}
